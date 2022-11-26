@@ -1,0 +1,71 @@
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.csprojAssemblyReference.cache
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\obj\Debug\netcoreapp3.1\ItemsWindow.g.cs
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement_MarkupCompile.cache
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement_MarkupCompile.lref
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.exe
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.deps.json
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.runtimeconfig.json
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.runtimeconfig.dev.json
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.dll
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.pdb
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\obj\Debug\netcoreapp3.1\ItemsWindow.baml
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.g.resources
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.AssemblyInfoInputs.cache
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.AssemblyInfo.cs
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.dll
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.pdb
+C:\Files\John Abbott College\Semester 5\Programming 3\FinalProject\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.genruntimeconfig.cache
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.dll
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.pdb
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.exe
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.deps.json
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.runtimeconfig.json
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.runtimeconfig.dev.json
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.dll
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.pdb
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.csproj.AssemblyReference.cache
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\ItemsWindow.g.cs
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement_MarkupCompile.cache
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement_MarkupCompile.lref
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\ItemsWindow.baml
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.g.resources
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.AssemblyInfoInputs.cache
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.AssemblyInfo.cs
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\2006429\Downloads\InventoryManagement\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.genruntimeconfig.cache
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.exe
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.deps.json
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.runtimeconfig.json
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.runtimeconfig.dev.json
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.dll
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.pdb
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.csproj.AssemblyReference.cache
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\GeneralReportWindow.g.cs
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\ItemsWindow.g.cs
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\SearchWindow.g.cs
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\ShoppingListWindow.g.cs
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement_MarkupCompile.cache
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement_MarkupCompile.lref
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\GeneralReportWindow.baml
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\ItemsWindow.baml
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\SearchWindow.baml
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\ShoppingListWindow.baml
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.g.resources
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.AssemblyInfoInputs.cache
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.AssemblyInfo.cs
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.dll
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.pdb
+C:\Users\Payal\Downloads\InventoryManagement (3)\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.genruntimeconfig.cache

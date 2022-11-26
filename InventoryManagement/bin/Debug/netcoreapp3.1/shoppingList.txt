@@ -1,0 +1,24 @@
+Item Name: Muffins
+	Available QTY: 23
+	Min QTY: 24
+	Location: aisle 3
+	Supplier: Costco
+	Category: Bakery
+Item Name: Yogurt
+	Available QTY: 30
+	Min QTY: 50
+	Location: aisle 1
+	Supplier: Walmart
+	Category: Dairy
+Item Name: Orange juice
+	Available QTY: 10
+	Min QTY: 15
+	Location: aisle 2
+	Supplier: Metro
+	Category: Drinks
+Item Name: Avocado
+	Available QTY: 18
+	Min QTY: 20
+	Location: aisle 4
+	Supplier: IGA
+	Category: FruitVegetable

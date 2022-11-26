@@ -1,0 +1,24 @@
+Item Name: pl
+	Available QTY: 88
+	Min QTY: 9
+Item Name: Muffins
+	Available QTY: 23
+	Min QTY: 24
+Item Name: Pizza
+	Available QTY: 10
+	Min QTY: 8
+Item Name: Yogurt
+	Available QTY: 30
+	Min QTY: 50
+Item Name: Oreos
+	Available QTY: 14
+	Min QTY: 12
+Item Name: Orange juice
+	Available QTY: 10
+	Min QTY: 15
+Item Name: Avocado
+	Available QTY: 18
+	Min QTY: 20
+Item Name: alllppppppppppppppppppppppppppppppppppppppa
+	Available QTY: 9
+	Min QTY: 3
